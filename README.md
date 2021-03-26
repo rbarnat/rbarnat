@@ -5,7 +5,7 @@ I'm a french Software Engineer from [**Polytech'Tours**](https://polytech.univ-t
 </br>
 I'm also alumni of [**The Hacking Project**](https://www.thehackingproject.org/).
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/rbarnat/rbarnat/blob/6523a3d0f114c4ec1b91463de09fab00c4dcd78e/code.gif?raw=true" width="500" height="320" />
 
 ## BACKEND Languages & Frameworks
 - Ruby on Rails <img title="Rails" alt="Rails" src="https://raw.githubusercontent.com/rbarnat/rbarnat/master/myicons/rails-original-wordmark.svg" width="20" height="20"/>
