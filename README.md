@@ -2,7 +2,7 @@
 
 ---
 
-<img align="left" alt="Rémi BARNAT Github stats" src="https://github-readme-stats.vercel.app/api?username=rbarnat&theme=merko&show_icons=true&hide_border=true" />
+<img align="left" alt="Rémi BARNAT Github stats" src="https://github-readme-stats.vercel.app/api?username=rbarnat&theme=gruvbox&show_icons=true&hide_border=true" />
 
 Here are some ideas to get you started:
 
