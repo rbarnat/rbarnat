@@ -1,8 +1,8 @@
 ### Hi I'm Rémi 👋
 
+---
 
-
-**rbarnat/rbarnat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left" alt="Rémi BARNAT Github stats" src=5"https://github-readme-stats.vercel.app/api?username=rbarnat5&show_icons=true&hide_border=true" />
 
 Here are some ideas to get you started:
 
