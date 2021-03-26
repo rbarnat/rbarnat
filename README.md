@@ -35,8 +35,8 @@ I'm also alumni of [**The Hacking Project**](https://www.thehackingproject.org/)
 ---
 
 ## Contacts
-- Linkedin :
-- Malt :
+- Linkedin : [**Rémi BARNAT**](https://fr.linkedin.com/in/r%C3%A9mi-barnat-813a5066)
+- Malt : [**Rémi BARNAT**](https://www.malt.fr/profile/remibarnat)
 - Email : rbarnat@gmail.com
 ---
 
