@@ -13,23 +13,23 @@ I'm also alumni of [**The Hacking Project**](https://www.thehackingproject.org/)
 - COBOL / MAINFRAME
 
 ## FRONTEND Languages & Library
-- HTML5 <img title="html" alt="html" src="https://raw.githubusercontent.com/dediane/dediane/7af3958da78c6b596bfaba650c9015576ca4e0fd/myicons/html5-original-wordmark.svg" width="20" height="20" />
-- CSS3 <img title="CSS" alt="CSS" src="https://raw.githubusercontent.com/dediane/dediane/7af3958da78c6b596bfaba650c9015576ca4e0fd/myicons/css3-original-wordmark.svg" width="20" height="20" />
-- Bootstrap <img title="Bootstrap" alt="Bootstrap" src="https://raw.githubusercontent.com/dediane/dediane/7af3958da78c6b596bfaba650c9015576ca4e0fd/myicons/bootstrap-plain-wordmark.svg" width="20" height="20"/>
+- HTML5 <img title="html" alt="html" src="https://raw.githubusercontent.com/rbarnat/rbarnat/master/myicons/html5-original-wordmark.svg" width="20" height="20" />
+- CSS3 <img title="CSS" alt="CSS" src="https://raw.githubusercontent.com/rbarnat/rbarnat/master/myicons/css3-original-wordmark.svg" width="20" height="20" />
+- Bootstrap <img title="Bootstrap" alt="Bootstrap" src="https://raw.githubusercontent.com/rbarnat/rbarnat/master/myicons/bootstrap-plain-wordmark.svg" width="20" height="20"/>
 - Javascript
 
 ## Tools
 - Visual Studio Code
-- GIT <img title="git" alt="git" src="https://raw.githubusercontent.com/dediane/dediane/7af3958da78c6b596bfaba650c9015576ca4e0fd/myicons/git-original.svg" width="20" height="20" />
-- GitHub <img title="github" alt="github" src="https://raw.githubusercontent.com/dediane/dediane/7af3958da78c6b596bfaba650c9015576ca4e0fd/myicons/github-original.svg" width="20" height="20" />
-- Heroku <img title="heroku" alt="heroku" src="https://raw.githubusercontent.com/dediane/dediane/7af3958da78c6b596bfaba650c9015576ca4e0fd/myicons/heroku-plain-wordmark.svg" width="20" height="20" />
+- GIT <img title="git" alt="git" src="https://raw.githubusercontent.com/rbarnat/rbarnat/master/myicons/git-original.svg" width="20" height="20" />
+- GitHub <img title="github" alt="github" src="https://raw.githubusercontent.com/rbarnat/rbarnat/master/myicons/github-original.svg" width="20" height="20" />
+- Heroku <img title="heroku" alt="heroku" src="https://raw.githubusercontent.com/rbarnat/rbarnat/master/myicons/heroku-plain-wordmark.svg" width="20" height="20" />
 - MS Visual Studio
 - MS Sourcesafe
 - Squirel
 - IBM RDZ/RTC
 - TSO/CICS2
 - SOAPUI
-- Wordpress <img title="wordpress" alt="wordpress" src="https://raw.githubusercontent.com/dediane/dediane/7af3958da78c6b596bfaba650c9015576ca4e0fd/myicons/wordpress-plain.svg" width="20" height="20"/>
+- Wordpress <img title="wordpress" alt="wordpress" src="https://raw.githubusercontent.com/rbarnat/rbarnat/master/myicons/wordpress-plain.svg" width="20" height="20"/>
 
 
 
