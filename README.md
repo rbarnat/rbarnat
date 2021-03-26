@@ -44,6 +44,4 @@ I'm also alumni of [**The Hacking Project**](https://www.thehackingproject.org/)
 
 <img align="left" alt="Rémi BARNAT Github stats" src="https://github-readme-stats.vercel.app/api?username=rbarnat&theme=tokyonight&show_icons=true&hide_border=true" />
 
----
-
 
