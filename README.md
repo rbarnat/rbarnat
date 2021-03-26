@@ -1,6 +1,8 @@
 ### Hi I'm Rémi BARNAT 👋
 
-I'm a french Engineer working in IT since 2013. I have mostly worked for huges societies from Banking and Insurance worlds.
+
+I'm a french Engineer from [**Polytech'Tours**](https://polytech.univ-tours.fr/version-francaise/navigation/cycle-ingenieur) working in IT since 2013. I have mostly worked for huges societies from Banking and Insurance worlds.
+I'm also alumni of [**The Hacking Project**](https://www.thehackingproject.org/).
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
