@@ -2,26 +2,29 @@
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-# BACKEND Languages & Frameworks
-- Ruby / Rails
+## BACKEND Languages & Frameworks
+- Ruby on Rails
 - C# / .NET
 - COBOL / MAINFRAME
 
+## FRONTEND Languages
+- HTML5
+- CSS3
+- Javascript
 
+## Tools
+- VS Code
+- GIT
+- GitHub
+- MS Visual Studio
+- MS Sourcesafe
+- Squirel
+- IBM RDZ/RTC
+- TSO/CICS2
+- SOAPUI
 
 ---
-dez
-dez
-d
-ez
-dez
-dez
-ddez
-dezd
-edzd
-ez
-dez
-dez
+
 
 
 <img align="left" alt="Rémi BARNAT Github stats" src="https://github-readme-stats.vercel.app/api?username=rbarnat&theme=tokyonight&show_icons=true&hide_border=true" />
