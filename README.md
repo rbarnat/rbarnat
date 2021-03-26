@@ -8,7 +8,7 @@ I'm also alumni of [**The Hacking Project**](https://www.thehackingproject.org/)
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ## BACKEND Languages & Frameworks
-- Ruby on Rails <img title="Rails" alt="Rails" src="https://raw.githubusercontent.com/dediane/dediane/7af3958da78c6b596bfaba650c9015576ca4e0fd/myicons/rails-original-wordmark.svg" width="20" height="20"/>
+- Ruby on Rails <img title="Rails" alt="Rails" src="https://raw.githubusercontent.com/rbarnat/rbarnat/7af3958da78c6b596bfaba650c9015576ca4e0fd/myicons/rails-original-wordmark.svg" width="20" height="20"/>
 - C# / .NET
 - COBOL / MAINFRAME
 
