@@ -43,7 +43,7 @@ More recently, I'm also alumni of [**The Hacking Project**](https://www.thehacki
 [![Rémi Medium](https://github-readme-medium.vercel.app/?username=rbarnat)](https://medium.com/@rbarnat)
 ---
 
-
+## GITHUB Stats
 <img align="left" alt="Rémi BARNAT Github stats" src="https://github-readme-stats.vercel.app/api?username=rbarnat&theme=tokyonight&show_icons=true&hide_border=true" />
 
 
