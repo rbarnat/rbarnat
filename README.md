@@ -25,8 +25,8 @@ I'm also alumni of [**The Hacking Project**](https://www.thehackingproject.org/)
 - Heroku <img title="heroku" alt="heroku" src="https://raw.githubusercontent.com/rbarnat/rbarnat/master/myicons/heroku-plain-wordmark.svg" width="20" height="20" />
 - MS Visual Studio <img title="git" alt="git" src="https://raw.githubusercontent.com/rbarnat/rbarnat/master/myicons/Visual_Studio_2013_Logo.svg" width="20" height="20" />
 - MS Sourcesafe
-- Squirrel <img title="git" alt="git" src="https://raw.githubusercontent.com/rbarnat/rbarnat/master/myicons/squirreL_sql.svg" width="20" height="20" />
-- IBM RDZ/RTC <img title="git" alt="git" src="https://raw.githubusercontent.com/rbarnat/rbarnat/master/myicons/IBM_RTC.svg" width="20" height="20" /> <img title="git" alt="git" src="https://raw.githubusercontent.com/rbarnat/rbarnat/master/myicons/IBM_Services.svg" width="20" height="20" />  
+- Squirrel <img title="git" alt="git" src="https://raw.githubusercontent.com/rbarnat/rbarnat/master/myicons/squirreL_sql.svg" width="40" height="40" />
+- IBM RDZ/RTC <img title="git" alt="git" src="https://raw.githubusercontent.com/rbarnat/rbarnat/master/myicons/IBM_RTC.svg" width="40" height="40" /> <img title="git" alt="git" src="https://raw.githubusercontent.com/rbarnat/rbarnat/master/myicons/IBM_Services.svg" width="20" height="20" />  
 - TSO/CICS
 - SOAPUI <img title="git" alt="git" src="https://raw.githubusercontent.com/rbarnat/rbarnat/master/myicons/soapui-logo.svg" width="20" height="20" /> 
 - Wordpress <img title="wordpress" alt="wordpress" src="https://raw.githubusercontent.com/rbarnat/rbarnat/master/myicons/wordpress-plain.svg" width="20" height="20"/>
