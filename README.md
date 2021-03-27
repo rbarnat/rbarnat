@@ -39,6 +39,7 @@ More recently, I'm also alumni of [**The Hacking Project**](https://www.thehacki
 - Email : rbarnat@gmail.com
 ---
 
+## Last publication
 [![Rémi Medium](https://github-readme-medium.vercel.app/?username=rbarnat)](https://medium.com/@rbarnat)
 ---
 
