@@ -1,9 +1,9 @@
 ### Hi I'm Rémi BARNAT 👋
 
 
-I'm a french Software Engineer from [**Polytech'Tours**](https://polytech.univ-tours.fr/version-francaise/navigation/cycle-ingenieur) working in IT since 2013. I have mostly worked for huges societies from Banking and Insurance worlds : C
+I'm a french Software Engineer from [**Polytech'Tours**](https://polytech.univ-tours.fr/version-francaise/navigation/cycle-ingenieur) working in IT since 2013. I have mostly worked for huges societies from Banking and Insurance worlds : Euro Information Dévelopement (IT group of  Crédit Mutuelle, Cofidis, Monabanq, ...), ONEY (Auchan Group), Verspieren.
 </br>
-I'm also alumni of [**The Hacking Project**](https://www.thehackingproject.org/).
+More recently, I'm also alumni of [**The Hacking Project**](https://www.thehackingproject.org/).
 
   <img align="right" alt="GIF" src="https://github.com/rbarnat/rbarnat/blob/6523a3d0f114c4ec1b91463de09fab00c4dcd78e/code.gif?raw=true" width="500" height="320" />
 
