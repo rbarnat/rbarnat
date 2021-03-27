@@ -9,26 +9,26 @@ I'm also alumni of [**The Hacking Project**](https://www.thehackingproject.org/)
 
 ## BACKEND Languages & Frameworks
 - Ruby on Rails <img title="Rails" alt="Rails" src="https://raw.githubusercontent.com/rbarnat/rbarnat/master/myicons/rails-original-wordmark.svg" width="20" height="20"/>
-- C# / .NET
-- COBOL / MAINFRAME
+- C# / .NET <img title="git" alt="git" src="https://raw.githubusercontent.com/rbarnat/rbarnat/master/myicons/c-sharp-c-seeklogo.com.svg" width="20" height="20" /> <img title="git" alt="git" src="https://raw.githubusercontent.com/rbarnat/rbarnat/master/myicons/downloads-dotnet.svg" width="20" height="20" />  
+- COBOL / MAINFRAME <img title="git" alt="git" src="https://raw.githubusercontent.com/rbarnat/rbarnat/master/myicons/i-cobol.svg" width="20" height="20" />
 
 ## FRONTEND Languages & Library
 - HTML5 <img title="html" alt="html" src="https://raw.githubusercontent.com/rbarnat/rbarnat/master/myicons/html5-original-wordmark.svg" width="20" height="20" />
 - CSS3 <img title="CSS" alt="CSS" src="https://raw.githubusercontent.com/rbarnat/rbarnat/master/myicons/css3-original-wordmark.svg" width="20" height="20" />
 - Bootstrap <img title="Bootstrap" alt="Bootstrap" src="https://raw.githubusercontent.com/rbarnat/rbarnat/master/myicons/bootstrap-plain-wordmark.svg" width="20" height="20"/>
-- Javascript
+- Javascript  <img title="git" alt="git" src="https://raw.githubusercontent.com/rbarnat/rbarnat/master/myicons/javascript-seeklogo.com.svg" width="20" height="20" />
 
 ## Tools
-- Visual Studio Code
+- Visual Studio <img title="git" alt="git" src="https://raw.githubusercontent.com/rbarnat/rbarnat/master/myicons/visual-studio-code-1.svg" width="20" height="20" />
 - GIT <img title="git" alt="git" src="https://raw.githubusercontent.com/rbarnat/rbarnat/master/myicons/git-original.svg" width="20" height="20" />
 - GitHub <img title="github" alt="github" src="https://raw.githubusercontent.com/rbarnat/rbarnat/master/myicons/github-original.svg" width="20" height="20" />
 - Heroku <img title="heroku" alt="heroku" src="https://raw.githubusercontent.com/rbarnat/rbarnat/master/myicons/heroku-plain-wordmark.svg" width="20" height="20" />
-- MS Visual Studio
+- MS Visual <img title="git" alt="git" src="https://raw.githubusercontent.com/rbarnat/rbarnat/master/myicons/Studio Visual_Studio_2013_Logo.svg" width="20" height="20" />
 - MS Sourcesafe
-- Squirel
-- IBM RDZ/RTC
-- TSO/CICS2
-- SOAPUI
+- Squirrel <img title="git" alt="git" src="https://raw.githubusercontent.com/rbarnat/rbarnat/master/myicons/squirreL_sql.svg" width="20" height="20" />
+- IBM RDZ/RTC <img title="git" alt="git" src="https://raw.githubusercontent.com/rbarnat/rbarnat/master/myicons/IBM_RTC.svg" width="20" height="20" /> <img title="git" alt="git" src="https://raw.githubusercontent.com/rbarnat/rbarnat/master/myicons/IBM_Services.svg" width="20" height="20" />  
+- TSO/CICS
+- SOAPUI <img title="git" alt="git" src="https://raw.githubusercontent.com/rbarnat/rbarnat/master/myicons/soapui-logo.svg" width="20" height="20" /> 
 - Wordpress <img title="wordpress" alt="wordpress" src="https://raw.githubusercontent.com/rbarnat/rbarnat/master/myicons/wordpress-plain.svg" width="20" height="20"/>
 
 
