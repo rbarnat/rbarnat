@@ -1,5 +1,5 @@
 ### Hi I'm Rémi BARNAT 👋
-[![Visits Badge](https://badges.pufler.dev/visits/rbarnat/rbarnat)](https://badges.pufler.dev)
+
 
 I'm a french Software Engineer from [**Polytech'Tours**](https://polytech.univ-tours.fr/version-francaise/navigation/cycle-ingenieur) working in IT since 2013. I have mostly worked for huges societies from Banking and Insurance worlds : Euro Information Dévelopement (IT group of  Crédit Mutuelle, Cofidis, Monabanq, ...), ONEY (Auchan Group), Verspieren.
 </br>
@@ -47,5 +47,7 @@ More recently, I'm also alumni of [**The Hacking Project**](https://www.thehacki
 
 ## GITHUB Stats
 <img align="left" alt="Rémi BARNAT Github stats" src="https://github-readme-stats.vercel.app/api?username=rbarnat&theme=tokyonight&show_icons=true&hide_border=true" />
+
+[![Visits Badge](https://badges.pufler.dev/visits/rbarnat/rbarnat)](https://badges.pufler.dev)
 
 
